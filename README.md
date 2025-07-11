@@ -42,4 +42,4 @@ Este projeto tem como objetivo criar um sistema básico de caixa para fins educa
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/sistema-caixa-python.git
+   git clone https://github.com/MaduSantoss/sistema-caixa-python.git
